@@ -10,3 +10,4 @@ altair
 requests
 joblib
 scipy
+openpyxl
